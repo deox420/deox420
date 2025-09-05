@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deox420/deox420/main/A_digital_graphic_banner_showcases_a_cybersecurity.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/deox420/deox420/main/banner.png" alt="banner" />
 </p>
 
 # 💫 About Me:

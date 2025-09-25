@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deox420/deox420/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/deox420/deox420/main/banner.png" alt="banner" />
 </p>
 
 ## 💫 About Me:

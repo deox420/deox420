@@ -18,9 +18,10 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com/)
 
+# 🧪CTF's:
 
----
-[![](https://visitcount.itsvg.in/api?id=deox420&icon=5&color=11)](https://visitcount.itsvg.in)
+[![CTF — Solved](https://img.shields.io/badge/CTF-Solved-brightgreen?style=for-the-badge)](https://github.com/deox420/CTF)
+
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ashala_hb) 

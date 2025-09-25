@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/deox420/deox420/main/banner.png"
        alt="banner"
-       style="object-fit:cover; width:100%; height:300px;" />
+       style="object-fit:cover; width:100%; height:400px;" />
 </p>
 
 ## 💫 About Me:

@@ -6,8 +6,8 @@
 ## 💫 About Me:
 # Apasionado por la tecnología y la ciberseguridad.<br>
 Cada dia aprendiendo un poquito mas. Lo sé todo, pero no sé nada, el aprendizaje es continuo.
-Chess amateur [![FIDE Profile](https://img.shields.io/badge/FIDE-Profile-0b74b8?style=for-the-badge)](https://ratings.fide.com/profile/535099879)
-[![FIDE Profile](https://img.shields.io/badge/FIDE-Profile-0b74b8?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://ratings.fide.com/profile/{FIDE_ID})
+Chess amateur
+[![FIDE Profile](https://img.shields.io/badge/FIDE-Profile-0b74b8?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://ratings.fide.com/profile/535099879)
 
 
 ## 🌐 Socials:

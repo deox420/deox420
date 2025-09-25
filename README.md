@@ -11,7 +11,7 @@
 
 ## ♟️ Chess Amateur
 
-[![FIDE Profile](https://img.shields.io/badge/FIDE-Profile-0b74b8?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://ratings.fide.com/profile/535099879)---
+[![FIDE Profile](https://img.shields.io/badge/FIDE-Profile-0b74b8?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://ratings.fide.com/profile/535099879)
 
 ---
 

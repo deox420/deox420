@@ -21,9 +21,6 @@
 # 🧪CTF's:
 
 [![CTF — Principiante](https://img.shields.io/badge/CTF-Principiante-brightgreen?style=for-the-badge)](https://github.com/deox420/CTF)
-![CTF — Avanzado](https://img.shields.io/badge/CTF-Avanzado-yellow?style=for-the-badge)
-![CTF — Profesional](https://img.shields.io/badge/CTF-Profesional-red?style=for-the-badge)
-![CTF — Experto](https://img.shields.io/badge/CTF-Experto-black?style=for-the-badge)
 
 
 ## 💰 You can help me by Donating

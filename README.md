@@ -14,8 +14,8 @@
 
 <h2 align="center">📜 Certificaciones</h2>
 <p align="center">
-  <a href="https://www.credential.net/dd719395-78e1-4fc7-8a20-459cb0e1e655" title="Verificar Certificación eJPT de Ivan">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/dd719395-78e1-4fc7-8a20-459cb0e1e655" alt="eJPT Junior Penetration Tester" height="170" />
+  <a href="https://www.credential.net/dd719395-78e1-4fc7-8a20-459cb0e1e655" title="Verificar Certificación eJPT">
+    <img src="https://pdf.ms.credential.net/badge/image?env=production&credential=xbibdeyy" alt="eJPT Junior Penetration Tester" height="170" />
   </a>
 </p>
 <br>
